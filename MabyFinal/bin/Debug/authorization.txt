@@ -1,0 +1,37 @@
+[
+  {
+    "Login": "admin",
+    "Password": "1",
+    "SuperUser": true,
+    "Access": {
+      "object1": 1,
+      "object2": 7,
+      "object3": 7,
+      "sdas": 1
+    }
+  },
+  {
+    "Login": "user",
+    "Password": "2",
+    "SuperUser": false,
+    "Access": {
+      "object1": 3,
+      "object2": 4,
+      "object3": 2,
+      "456": 456,
+      "888": 888,
+      "2": 2
+    }
+  },
+  {
+    "Login": "guest",
+    "Password": "3",
+    "SuperUser": false,
+    "Access": {
+      "object1": 7,
+      "object2": 4,
+      "object3": 7,
+      "5": 5
+    }
+  }
+]
